@@ -1,19 +1,19 @@
 {
-    "version": "0.0.1-beta.3",
+    "version": "0.0.1-beta.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/thegorangers/migraine/releases/download/v0.0.1-beta.3/migraine_0.0.1-beta.3_windows_amd64.zip",
+            "url": "https://github.com/thegorangers/migraine/releases/download/v0.0.1-beta.4/migraine_0.0.1-beta.4_windows_amd64.zip",
             "bin": [
                 "migraine.exe"
             ],
-            "hash": "3c07ce185350c1e9a0b9683d66c03fd56376e6dcc4c9c35b3442d1ad6db4e9e9"
+            "hash": "6ac24c07d64812a8d111f143b57f365b43395c668649c615bff6e32387dcd7aa"
         },
         "arm64": {
-            "url": "https://github.com/thegorangers/migraine/releases/download/v0.0.1-beta.3/migraine_0.0.1-beta.3_windows_arm64.zip",
+            "url": "https://github.com/thegorangers/migraine/releases/download/v0.0.1-beta.4/migraine_0.0.1-beta.4_windows_arm64.zip",
             "bin": [
                 "migraine.exe"
             ],
-            "hash": "e8d5d77756c027c834925dd7777e6377122423c28b52301b45eefc62ab4ab535"
+            "hash": "e3fb2e9dd4ac43202f0e04ce80717b4014efd54fff8f294c0893e6c9f0d3669c"
         }
     },
     "homepage": "https://github.com/thegorangers/migraine",
